@@ -20,4 +20,4 @@ Passos:
 5. Testar a comunicação
 - Para verificar se todos os computadores estão devidamente configurados, acesse um dos PCs da equipe, abra o prompt de comando e tente fazer um ping para o endereço IP do computador de outro membro da equipe.
 
-Por fim, envie o arquivo do Cisco gerado, junto com um print da tela com a topologia e do comando ping executado para os outros três computadores.
+
